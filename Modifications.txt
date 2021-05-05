@@ -1,0 +1,6 @@
+Save the sheep.
+
+I just ended the project as the tutorial explained. The only change I made was a bug fix for the counter of the lost sheep. The game counted two sheep whenever a single sheep fell, so I included a counter that prevents the drop function from executing several times. Now the score is correct, and the player loses when missing 3 sheep.
+
+
+Daniel Nieto 
